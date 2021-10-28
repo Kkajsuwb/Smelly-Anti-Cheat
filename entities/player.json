@@ -1,5 +1,5 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.17.40",
 	"minecraft:entity": {
 		"description": {
 			"identifier": "minecraft:player",
@@ -158,6 +158,12 @@
 								{
 									"test": "has_equipment",
 									"domain": "any",
+									"value": "minecraft:monster_spawner"
+								}, 
+
+								{
+									"test": "has_equipment",
+									"domain": "any",
 									"value": "minecraft:barrier"
 								},
 								{
@@ -238,7 +244,7 @@
 								{
 									"test": "has_equipment",
 									"domain": "any",
-									"value": "minecraft:spawn_egg"
+									"value": "minecraft:creeper_spawn_egg"
 								}
 							],
 							"all_of": [

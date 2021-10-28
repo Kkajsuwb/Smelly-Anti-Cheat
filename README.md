@@ -50,6 +50,7 @@ if you want to get your realm in here please join the discord https://discord.gg
 - Orgin Prisons
 - Binocraft Factions
 
+Need to enable **Gametest Framework**!
   
 ## Features
 

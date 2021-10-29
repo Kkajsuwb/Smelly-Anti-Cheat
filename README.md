@@ -6,7 +6,7 @@ Best Anti cheat on minecraft bedrock, protects against almost every hack and wil
 
 ## Acknowledgements
 
- - [Smell of Curry YT](https://www.youtube.com/c/SmellofCurry)
+ - Original creator: [Smell of Curry YT](https://www.youtube.com/c/SmellofCurry)
  - [Download Anti-Cheat addon](https://link1s.com/AntiCheatMCPE)
 
   
@@ -49,14 +49,14 @@ if you want to get your realm in here please join the discord https://discord.gg
 - Orgin Prisons
 - Binocraft Factions
 
-Need to enable **Gametest Framework**!
+Need to enable **Holiday Creator Features**!
   
 ## Features
 
 - Anti Fly 
 - Anti Jetpack
 - Anti Teleport
-- Anti NBT
+- Anti NBT (Beehive, bee_nest, movingBlock)
 - Anti Air-Jump
 - Anti Auto Totem
   
